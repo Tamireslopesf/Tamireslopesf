@@ -1,4 +1,4 @@
-### Oi!! eu sou a Tamires, atualmente estudando Front-end 👋☺️
+### Oi!! eu sou a Tamires. 👋☺️
 <br>
 <div align="center">
   <a href="https://github.com/Tamireslopesf">
